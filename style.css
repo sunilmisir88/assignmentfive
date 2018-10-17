@@ -1,0 +1,33 @@
+.header {
+    font-weight: bold;
+	text-align: center;
+}
+
+.computerNumber{
+   	width: 20%;
+	height: 60px;
+}
+
+
+
+.stats{
+    float: left;
+	width: 25%;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.crystals{
+    clear: both;
+}
+
+.crystalImage{
+    height: 60px;
+	margin: 20px;
+}
+
+.playerTotal {
+    width: 15%;
+	height: 60px;
+}
+
